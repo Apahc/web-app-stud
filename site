@@ -10,7 +10,7 @@
 <body>
     <div id="main">
         <h1>Онлайн магазин</h1>
-        <img scr="/main/sss.jpg">
+        <img scr="main/sss.jpg">
         <p>Scala is the owner. He is the best, the God.</p>
         <button id="buy">Купить</button>
     </div>
