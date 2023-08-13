@@ -10,7 +10,7 @@
 <body>
     <div id="main">
         <h1>Онлайн магазин</h1>
-        <img scr="sss.jpg">
+        <img scr="https://catherineasquithgallery.com/uploads/posts/2021-03/1614553736_86-p-kartinki-babochki-na-belom-fone-111.png">
         <p>Scala is the owner. He is the best, the God.</p>
         <button id="buy">Купить</button>
     </div>
